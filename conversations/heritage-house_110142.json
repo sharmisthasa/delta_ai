@@ -1,0 +1,44 @@
+{
+  "kind": "site",
+  "site_id": "heritage-house",
+  "site_name": "Heritage House",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How was Heritage House constructed?"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m sorry—I couldn’t find reliable info on exactly how Heritage House was constructed. Want to hear about Dubai’s wind towers (barjeel) or the historic Al Fahidi neighborhood instead?",
+      "sources": []
+    },
+    {
+      "role": "user",
+      "content": "What is the historical significance of Heritage House?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey there! Here’s why the Heritage House (aka Heritage Village) matters in Dubai’s history:\n\n• Born in 1997 in Al Shindagha, it’s a living museum of the UAE’s old‑school way of life.  \n• Shows the wild, marine and mountain side of Emirati culture—so you can picture what daily life was like back then.  \n• Features authentic old houses, handicrafts, patterns and living styles, letting visitors step right into the past.  \n• Run by Dubai Culture & Arts Authority, it’s a hub for preserving and celebrating the country’s traditional customs.  ",
+      "sources": [
+        {
+          "text": "The Heritage Village was created in 1997 in Al Shindagha Historical Neighborhood in Dubai, close to the Diving Village, to embrace the heritage events and to display a live image of the old traditional life in UAE. It represents the components of wild, marine, and mountain life, where the visitor can identify closely the old traditional customs of the country and the special characteristics of the old houses, handicrafts, patterns and forms of living. It is owned and managed by Dubai Culture & A",
+          "filename": "Heritage House",
+          "label": "Heritage House",
+          "url": "https://en.wikipedia.org/wiki/Heritage_Village_Dubai"
+        },
+        {
+          "text": "s. One hall is at the main gate and houses the ticket office, while the others contain a collection of old weapons and arms from different historical periods along with a model of the city in 1820 AD. Traditional musical instruments are also displayed next to a video of folkloric music.\nThe halls surround a central courtyard. Here you will find a bronze cannon with cannonballs, a well, and various types of boats. In the corner stands a traditional summer house called Arish. The Arish is made ent",
+          "filename": "Al Fahidi Fort",
+          "label": "Al Fahidi Fort",
+          "url": "https://en.wikipedia.org/wiki/Dubai_Museum"
+        },
+        {
+          "text": "ving. It is owned and managed by Dubai Culture & Arts Authority. Working hours at Dubai Heritage Village are Sunday to Thursday, 8:00- 22:00 and Friday and Saturday from 3:00 to 22:00. \n\n\n== References ==\n\n\n== External links ==\nHeritage Village, Dubai Culture & Arts Authority",
+          "filename": "Heritage House",
+          "label": "Heritage House",
+          "url": "https://en.wikipedia.org/wiki/Heritage_Village_Dubai"
+        }
+      ]
+    }
+  ]
+}

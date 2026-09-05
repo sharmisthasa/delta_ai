@@ -1,0 +1,15 @@
+{
+  "kind": "site",
+  "site_id": "al-fahidi-historical-neighbourhood",
+  "site_name": "Al Fahidi Historical Neighbourhood",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the historical significance of Al Fahidi Historical Neighbourhood?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Why Al Fahidi Historical Neighbourhood matters:**  \n\n• It’s one of Dubai’s oldest preserved districts, dating back to the **1890s** (From Excerpt 1).  \n• The area originally held about **60 housing units**, linked by **narrow, winding lanes** that showcase traditional street patterns (From Excerpt 1).  \n• It was **built by affluent Persian merchants** who came for Dubai’s booming trade and the incentives the Emirati offered (From Excerpt 1).  \n• The neighborhood’s architecture and layout give a rare glimpse into Dubai’s **pre‑oil, merchant‑driven era** – a living museum of the city’s early multicultural roots.  "
+    }
+  ]
+}

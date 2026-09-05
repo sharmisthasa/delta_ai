@@ -1,0 +1,15 @@
+{
+  "kind": "site",
+  "site_id": "dubai-creek",
+  "site_name": "Dubai Creek",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How was Dubai Creek constructed?"
+    },
+    {
+      "role": "assistant",
+      "content": "Error querying local archive pipeline: No secrets found. Valid paths for a secrets.toml file or secret directories are: /Users/sharmisthasathya/.streamlit/secrets.toml, /Users/sharmisthasathya/Documents/ChatGPT/delta a/sharmi-project/wiki page/.streamlit/secrets.toml"
+    }
+  ]
+}

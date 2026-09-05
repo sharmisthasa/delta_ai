@@ -1,0 +1,14 @@
+{
+  "kind": "general",
+  "site_name": "Archive",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How did coral stone houses keep cool?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Cool vibes in coral‑stone homes**  \n\n• The fort (and many historic houses) were built from coral rock and mortar, giving them solid, thick walls. *(Excerpt 3)*  \n• Cooling came from the classic **wind‑tower** design, which caught breezes and pushed fresh air inside before electricity existed. *(Excerpt 1)*  \n\nSo, the natural airflow from wind towers, combined with the hefty coral‑stone walls, kept the interiors nicely chill."
+    }
+  ]
+}

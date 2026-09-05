@@ -1,0 +1,15 @@
+{
+  "kind": "general",
+  "site_name": "Archive",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is the capital of new zealand"
+    },
+    {
+      "role": "assistant",
+      "content": "Here's what I found online about your question:\n\n**How an Earthquake Turned This New Zealand Town into the Art Deco...**\nNapier, New Zealand has the largest concentration of Art Deco buildings in the world.One hundred and eleven new buildings were constructed in the downtown area between 1931 and 1933. The vast majority took their cues from Art Deco, the era’s cutting-edge architectural trend.\nSource: https://www.smithsonianmag.com/travel/earthquake-helped-turn-city-art-deco-capital-world-180958081/\n\n---\n\n**Wellington | 100% Pure New Zealand**\nWellington is the capital city of New Zealand and is at the heart of New Zealand 's film industry.Discover the stories of Aotearoa New Zealand in world-class museums and galleries – the interactive and immersive national museum, Te Papa(opens in new window), is a must-visit.\nSource: https://www.newzealand.com/int/wellington/\n\n---\n\n**The perfect Dubai itinerary for 3, 5 and 7 days - Hopping Feet**\nAustralia. New Zealand . The Middle East. Dubai Itinerary for 3 days. Day 1: Burj Khalifa, Dubai Aquarium & Dubai Fountain. Undoubtedly, the number one attraction in Dubai is the Burj Khalifa.\nSource: https://hoppingfeet.com/the-perfect-dubai-itinerary-for-3-5-and-7-days/\n\n---\n\n**‘Oh my God, this is like Dubai coming to New Zealand ’ - 300 enquiries...**\n- The project includes 2500 homes, with completion expected by 2035, and aims to promote an active lifestyle. A defunct sand quarry on the outskirts of Hamilton is tipped to become New Zealand ’s very own Dubai .\nSource: https://www.oneroof.co.nz/news/oh-my-god-this-is-like-dubai-coming-to-new-zealand-300-enquiries-a-week-for-new-suburb-47229",
+      "sources": []
+    }
+  ]
+}

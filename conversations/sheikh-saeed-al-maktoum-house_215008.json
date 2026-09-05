@@ -1,0 +1,35 @@
+{
+  "kind": "site",
+  "site_id": "sheikh-saeed-al-maktoum-house",
+  "site_name": "Sheikh Saeed Al Maktoum House",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the historical significance of Sheikh Saeed Al Maktoum House?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Why Sheikh Saeed Al Maktoum House matters**\n\n- Built around 1896, it was the original seat of the Al Maktoum family in Dubai.  \n- Served as Sheikh Saeed bin Maktoum’s home — the ruler’s residence until his death in 1958.  \n- The house is the birthplace of his sons and grandsons, linking generations of Dubai’s rulers.  \n- Today it’s a museum that showcases old‑town artifacts, photos, coins, stamps, maps, and marine life, giving a vivid glimpse of historic Dubai.  ",
+      "sources": [
+        {
+          "text": "Sheikh Saeed Al Maktoum House is a historic building and former residential quarters of Saeed bin Maktoum Al Maktoum, former ruler of Dubai in the United Arab Emirates.\nThe building is located along the Dubai Creek in the locality of Al Shindagha area.  It was established around 1896 as the seat of the Al Maktoum family. The building is now a museum that contains artifacts and images of the old town of Dubai. The displays are distributed onto nine wings, as follows: The History of Saeed Al Makto",
+          "filename": "Sheikh Saeed Al Maktoum House",
+          "label": "Sheikh Saeed Al Maktoum House",
+          "url": "https://en.wikipedia.org/wiki/Saeed_Al_Maktoum_House"
+        },
+        {
+          "text": "e wings, as follows: The History of Saeed Al Maktoum House, Al Maktoum Family, Old Dubai, Marine Life, Views from Dubai, Social Life in Dubai, Coins and Stamps, Historic Documents and Maps. The total area of building is 3,600 square meters.\n\nThe building remain the residency of Sheikh Saeed Al Maktoum since his death in 1958. The site is also birthplace of his sons and grandsons.\n\n\n== References ==\n\n\n== External links ==\nSheikh Saeed Al Maktoum House, Dubai Culture & Arts Authority\n Media relate",
+          "filename": "Sheikh Saeed Al Maktoum House",
+          "label": "Sheikh Saeed Al Maktoum House",
+          "url": "https://en.wikipedia.org/wiki/Saeed_Al_Maktoum_House"
+        },
+        {
+          "text": "ouse, Dubai Culture & Arts Authority\n Media related to Sheikh Saeed Al Maktoum House at Wikimedia Commons",
+          "filename": "Sheikh Saeed Al Maktoum House",
+          "label": "Sheikh Saeed Al Maktoum House",
+          "url": "https://en.wikipedia.org/wiki/Saeed_Al_Maktoum_House"
+        }
+      ]
+    }
+  ]
+}

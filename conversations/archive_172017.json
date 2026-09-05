@@ -1,0 +1,14 @@
+{
+  "kind": "general",
+  "site_name": "Archive",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How did coral stone houses keep cool?"
+    },
+    {
+      "role": "assistant",
+      "content": "Cool vibes from coral stone homes — here’s the quick scoop:\n\n- **Thick coral walls act like a natural thermostat.**  \n  The fort’s walls are made of coral rock and mortar, which stay cool inside and slow heat from getting in. (From Excerpt 3)\n\n- **Wind towers pull fresh breezes inside.**  \n  The traditional “Arish” summer house has a wind‑tower design that cools rooms without electricity. (From Excerpt 1)\n\n- **Together they create a comfy, breezy spot.**  \n  The heavy stone blocks keep the heat out, while the tower pushes cool air through, giving a natural air‑conditioning effect. (Combined info from Excerpts 1 & 3)"
+    }
+  ]
+}

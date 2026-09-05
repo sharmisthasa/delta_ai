@@ -1,0 +1,15 @@
+{
+  "kind": "general",
+  "site_name": "Archive",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is the capital of new zealand"
+    },
+    {
+      "role": "assistant",
+      "content": "Here's what I found online about your question:\n\n**New Zealand & Dubai Holiday • View Itinerary**\nThe newest attraction in the ‘ capital ’ is New Zealand ’s National Museum. Named ‘Te Papa’ (our place) it contains a wealth of information on New Zealand ’s past, present and future, many interactive exhibits, multi-media databases and fascinating collections.\nSource: https://freedomdestinations.co.uk/new-zealand/multi-centre/new-zealand-dubai\n\n---\n\n**Wellington | 100% Pure New Zealand**\nWellington is the capital city of New Zealand and is at the heart of New Zealand 's film industry.Discover the stories of Aotearoa New Zealand in world-class museums and galleries – the interactive and immersive national museum, Te Papa(opens in new window), is a must-visit.\nSource: https://www.newzealand.com/int/wellington/\n\n---\n\n**New Zealand | History, Map, Flag, Capital , Population... | Britannica**\nNew Zealand has three official languages: English, Māori, and New Zealand Sign Language. While English is the predominant language, nearly all Māori speakers are also fluent in English; about a quarter of them speak Māori as well.\nSource: https://www.britannica.com/place/New-Zealand\n\n---\n\n**edition.cnn.com/travel/article/deep-dive- dubai -worlds-deepest-dive...**\nDeep Dive Dubai is the deepest swimming pool in the world.\nSource: https://edition.cnn.com/travel/article/deep-dive-dubai-worlds-deepest-dive-pool/index.html",
+      "sources": []
+    }
+  ]
+}

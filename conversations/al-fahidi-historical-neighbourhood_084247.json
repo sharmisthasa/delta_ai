@@ -1,0 +1,15 @@
+{
+  "kind": "site",
+  "site_id": "al-fahidi-historical-neighbourhood",
+  "site_name": "Al Fahidi Historical Neighbourhood",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the historical significance of Al Fahidi Historical Neighbourhood?"
+    },
+    {
+      "role": "assistant",
+      "content": "Error querying local archive pipeline: No secrets found. Valid paths for a secrets.toml file or secret directories are: /Users/sharmisthasathya/.streamlit/secrets.toml, /Users/sharmisthasathya/Documents/ChatGPT/delta a/sharmi-project/wiki page/.streamlit/secrets.toml"
+    }
+  ]
+}

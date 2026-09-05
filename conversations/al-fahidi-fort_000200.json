@@ -1,0 +1,35 @@
+{
+  "kind": "site",
+  "site_id": "al-fahidi-fort",
+  "site_name": "Al Fahidi Fort",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the historical significance of Al Fahidi Fort?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Why Al Fahidi Fort matters in Dubai’s story**  \n\n• Built in phases from coral rock and mortar, giving it a sturdy, traditional look.  \n• Square‑shaped with towers on three corners—classic defensive design.  \n• Served multiple roles: a palace for rulers, a garrison for troops, and even a prison.  \n• Nearby you’ll see a replica of the old city walls and a tall dhow, echoing the fort’s historic setting.  \n• In 1969 a royal letter asked Kuwait for a museum expert, paving the way for the fort to become Dubai Museum.  \n\nSo the fort isn’t just an old building—it’s a piece of Dubai’s defense, governance, and cultural preservation all wrapped into one.",
+      "sources": [
+        {
+          "text": "palace, a garrison, and a prison.\nIn 1969, Sheikh Hamdan Bin Rashid Al Maktoum issued a letter to Sheikh Badr Mohammad Al Sabah, head of the office of state in Kuwait, asking for a museum expert to be sent to Dubai to help establish the museum.\n\n\n== Fort ==\nAl Fahidi Fort is square-shaped with towers occupying three of its corners. It was built of coral rock and mortar in several phases. Just off the southern wall lie a reconstruction of the old city walls. Next to them stands a tall dhow (tradi",
+          "filename": "Al Fahidi Fort",
+          "label": "Al Fahidi Fort",
+          "url": "https://en.wikipedia.org/wiki/Dubai_Museum"
+        },
+        {
+          "text": "i Fort in Dubai\", Alriyadh newspaper, 8 April 2001. (in Arabic)\nAl Feheidi Fort Archived 2007-11-02 at the Wayback Machine on the Dubai Municipality's \"Dubai Historic\" website. (requires Internet Explorer to view correctly)\nAttractions:Dubai Museum on Dubai Government's website.\n\n\n== External links ==\n Media related to Dubai Museum at Wikimedia Commons\n Media related to Al Fahidi Fort at Wikimedia Commons\nDubai Museum Website\nGulf News | Dubai Museum",
+          "filename": "Al Fahidi Fort",
+          "label": "Al Fahidi Fort",
+          "url": "https://en.wikipedia.org/wiki/Dubai_Museum"
+        },
+        {
+          "text": "Al Fahidi Historical Neighbourhood (Arabic: حي الفهيدي التاريخي; also known as Al Bastakiya) is a historic district in Dubai, United Arab Emirates.\n\n\n== History ==\nThe construction of Al Bastakiya dates back to the 1890s. In its prime, the locality was capable of 60 housing units, most of which were separated by narrow, winding lanes. The town of Al Bastakiya was primarily built by the affluent Persian Merchants drawn to Dubai by the rich trade opportunities and incentives offered by the Emirati",
+          "filename": "Al Fahidi Historical Neighbourhood",
+          "label": "Al Fahidi Historical Neighbourhood",
+          "url": "https://en.wikipedia.org/wiki/Al_Bastakiya"
+        }
+      ]
+    }
+  ]
+}

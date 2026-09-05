@@ -1,0 +1,14 @@
+{
+  "kind": "general",
+  "site_name": "Archive",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the Dubai Creek?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Quick take:** Dubai Creek is the historic waterway that gave Dubai its trading roots.\n\n- • A natural salt‑water inlet of the Persian Gulf that stretches about 9 miles (14 km) inland (From Excerpt 1)  \n- • Width varies between 200 – 1,200 m and depth averages 6.5 – 7 m (From Excerpt 1)  \n- • Acts as a natural port, long used for trade and transport (From Excerpt 1)  \n- • Handles over 13,000 ships each year, making it a key artery for the city’s maritime commerce (From Excerpt 2)  \n- • Runs southeast through the mainland, passing Port Saeed and Dubai Creek Park, ending at Ras Al Khor Wildlife Sanctuary (From Excerpt 3)  \n- • Connects east‑ and west‑side neighborhoods via abras (traditional wooden boats) and four bridges (Al Maktoum, Al Garhoud, etc.) (From Excerpt 3)  "
+    }
+  ]
+}

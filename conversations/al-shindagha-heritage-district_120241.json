@@ -1,0 +1,15 @@
+{
+  "kind": "site",
+  "site_id": "al-shindagha-heritage-district",
+  "site_name": "Al Shindagha Heritage District",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How was Al Shindagha Heritage District constructed?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Quick take:** Al Shindagha’s heritage district was brought back to life through big‑scale restoration work.  \n\n- • The area went through **major restoration works** aimed at reviving the historic neighbourhood and its old buildings. (From Excerpt 2)  "
+    }
+  ]
+}

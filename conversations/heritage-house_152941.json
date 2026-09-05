@@ -1,0 +1,39 @@
+{
+  "kind": "site",
+  "site_id": "heritage-house",
+  "site_name": "Heritage House",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the historical significance of Heritage House?"
+    },
+    {
+      "role": "assistant",
+      "content": "**Heritage House (part of Dubai’s Heritage Village) matters because…**  \n\n• It was set up in 1997 to **capture and showcase the traditional life of the UAE**, letting visitors see how people lived, worked, and celebrated in the past. (From Excerpt 1)  \n• The site displays **old houses, handicrafts, and the customs of desert, marine, and mountain communities**, giving a hands‑on feel of heritage architecture. (From Excerpt 1)  \n• Managed by the Dubai Culture & Arts Authority, it helps **preserve and promote local culture** for both residents and tourists. (From Excerpt 1 & Excerpt 3)  "
+    },
+    {
+      "role": "user",
+      "content": "How was Heritage House constructed?"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m sorry, I couldn’t find reliable info on how Heritage House was constructed. Want to know about wind towers (barjeel) or Dubai’s historic Al Fahidi Fort instead?"
+    },
+    {
+      "role": "user",
+      "content": "What materials were used to build Heritage House?"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m sorry, I couldn’t find reliable info on the materials used for Heritage House. Want to know about wind towers or coral‑gypsum houses instead?"
+    },
+    {
+      "role": "user",
+      "content": "tell me more about the heritage house"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! Here’s the quick low‑down on Dubai’s heritage spots and the classic “heritage house” vibe:  \n\n• **Heritage Village** – opened in 1997 in the Al Shindagha Historical Neighborhood, right near the Diving Village (Excerpt 1).  \n• It brings old‑school UAE life to life: wild, marine & mountain scenes, traditional houses, handicrafts, patterns, and daily customs (Excerpt 1).  \n• Managed by the Dubai Culture & Arts Authority (Excerpt 1 & 2).  \n• Opening times: Sun‑Thu 8:00‑22:00; Fri‑Sat 3:00‑22:00 (Excerpt 2).  \n\n**Spotlight on a heritage house:**  \n\n• Inside Al Fahidi Fort’s courtyard sits a traditional summer house called an **Arish** (Excerpt 3).  \n• The Arish is built in the classic style and sits beside a bronze cannon, well, and boats, giving a real feel of historic living spaces (Excerpt 3).  \n\nSo, whether you wander the Heritage Village’s recreated streets or peek at the Arish at Al Fahidi Fort, you get a taste of Dubai’s old‑world architecture and culture. Enjoy exploring!"
+    }
+  ]
+}

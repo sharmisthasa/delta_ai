@@ -1,0 +1,15 @@
+{
+  "kind": "site",
+  "site_id": "traditional-architecture-museum",
+  "site_name": "Traditional Architecture Museum",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What materials were used to build Traditional Architecture Museum?"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m sorry, I couldn’t find reliable info on the materials used for the Traditional Architecture Museum. Want to learn about wind towers (barjeel) or coral & gypsum houses instead?"
+    }
+  ]
+}

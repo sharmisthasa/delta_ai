@@ -1,0 +1,15 @@
+{
+  "kind": "general",
+  "site_name": "Archive",
+  "messages": [
+    {
+      "role": "user",
+      "content": "how did coral houses keep cool"
+    },
+    {
+      "role": "assistant",
+      "content": "Sorry, I couldn't find reliable info on how coral houses kept cool. Want to know about wind towers or Dubai’s historic Al Fahidi Fort instead?",
+      "sources": []
+    }
+  ]
+}
